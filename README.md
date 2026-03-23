@@ -1,0 +1,2 @@
+# kopiko
+tugas kopiko
