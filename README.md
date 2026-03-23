@@ -1,2 +1,2 @@
 # kopiko
-tugas kopiko
+membuat aplikasi kopi
